@@ -4,13 +4,13 @@
 1) VSCode :
 
 install ffmpeg
+
 install yt_dlp
 
 python audioCrawler.py
 
 2) Anaconda prompt :
-   
-Anaconda Prompt (anaconda3)
+
 
 conda env create -f env.yml  
 
